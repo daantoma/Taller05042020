@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOy4X7eMffXq8gDaX09Gsbbwnlcb8E5j4kzkXd3x+ctFXxGuexRBJ4bU/3vsx00xZ7IiIKEXokM7jvz/w/iljQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

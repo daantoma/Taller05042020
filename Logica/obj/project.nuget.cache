@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cq2D4m4UbiplJrQSk0NFPf/H58HW3rs0FAJJ73MRU1wXItOUAWCyk7Ed2ASeBtE6oZGFhRVrbelKo8jPOZUjVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Logica\\Logica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
