@@ -1080,11 +1080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj",
       "projectName": "Datos",
-      "projectPath": "c:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1103,8 +1103,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj": {
-              "projectPath": "c:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj"
+            "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8rQKdK8rfabRRlZJKnWkYx/roxBlTAtA3BJFYKRjzP7eeZbhGvWHq84caj6Q3DS5rrDyxeA4fFuZ2l9CLC/omA==",
+  "dgSpecHash": "uJGThkUEF0LPQtfWXZrgq7ALorL0l/Xwh+kloBwTIhiXOEmCqX9Ds8NYOJgsXaDlKrmfhGCrvjDblJJvV9fSJA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Logica\\Logica.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Logica\\Logica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

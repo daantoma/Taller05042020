@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eb9R5RrQaGFxQxORQXNvVTQg5cy6D8wtm45Uy2FZhyk1na/wqm4b/xNpioJxRusew/ZqOFJFlW4rp7jGQL+p/Q==",
+  "dgSpecHash": "o3uOhMAJWu4Vp4z0Q22stWABeqEwcnFv6YK1DhYkjCzA60JjoTnMYmOgDddABKCwor4SxezLWIAPPDcHkYB/HQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
