@@ -1099,11 +1099,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Logica\\Logica.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Logica\\Logica.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Logica\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1122,11 +1122,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj": {
-              "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Datos\\Datos.csproj"
+            "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Datos\\Datos.csproj"
             },
-            "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj"
+            "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Entity\\Entity.csproj"
             }
           }
         }

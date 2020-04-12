@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj": {}
+    "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj": {
+    "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\primer corte\\proyectos\\Taller05042020\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\UNIVERSIDAD\\programacion web - 2\\1 - primer corte\\Ejercicios\\Taller05042020\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
