@@ -9,6 +9,7 @@ namespace Entity
         public int Edad { get; set; }
         public string Sexo { get; set; }
         public decimal Pulsacion { get; set; }
+        
         public void CalcularPulsaciones() 
         {
             if (Sexo.Equals("F") || Sexo.Equals("f"))
